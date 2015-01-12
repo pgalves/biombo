@@ -1,0 +1,13 @@
+Convert qmake to cmake to best match KDE.
+
+-setup configuration:
+ define time to timeout picture or enable disable timeout
+-config file with last default path
+-config file with saved options
+
+-setup toolbar:
+icons: open, zoom in, zoom out and scale to fit
+
+FIXME:
+-picture does not rescale when opening picture after the previous one was locked by timeout.
+
